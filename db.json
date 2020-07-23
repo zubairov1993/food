@@ -24,24 +24,9 @@
   ],
   "requests": [
     {
-      "name": "awda",
-      "phone": "wadaw",
+      "name": "was",
+      "phone": "aw",
       "id": 1
-    },
-    {
-      "name": "awda",
-      "phone": "awda",
-      "id": 2
-    },
-    {
-      "name": "wadwdwa",
-      "phone": "waw",
-      "id": 3
-    },
-    {
-      "name": "цфвцфц",
-      "phone": "вцфц",
-      "id": 4
     }
   ]
 }
